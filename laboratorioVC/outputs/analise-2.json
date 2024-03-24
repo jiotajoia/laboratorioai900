@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "cfb7069a-6984-4bc9-be85-e24e314b9f90",
+  "content-length": "160",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a group of women lifting weights",
+    "confidence": 0.7104384899139404
+  },
+  "metadata": {
+    "width": 1280,
+    "height": 853
+  }
+}

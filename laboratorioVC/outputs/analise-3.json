@@ -1,0 +1,63 @@
+{
+  "apim-request-id": "b909ac78-6d1b-4f77-bb18-9e8d2f853455",
+  "content-length": "686",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 1280,
+    "height": 853
+  },
+  "tagsResult": {
+    "values": [
+      {
+        "name": "person",
+        "confidence": 0.9814634323120117
+      },
+      {
+        "name": "clothing",
+        "confidence": 0.9788682460784912
+      },
+      {
+        "name": "ball",
+        "confidence": 0.9771006107330322
+      },
+      {
+        "name": "footwear",
+        "confidence": 0.9548248052597046
+      },
+      {
+        "name": "knee",
+        "confidence": 0.9006044864654541
+      },
+      {
+        "name": "indoor",
+        "confidence": 0.8941766619682312
+      },
+      {
+        "name": "window",
+        "confidence": 0.8588296175003052
+      },
+      {
+        "name": "wall",
+        "confidence": 0.8411182761192322
+      },
+      {
+        "name": "woman",
+        "confidence": 0.7912186980247498
+      },
+      {
+        "name": "floor",
+        "confidence": 0.6867499947547913
+      },
+      {
+        "name": "ground",
+        "confidence": 0.6684527397155762
+      },
+      {
+        "name": "girl",
+        "confidence": 0.61302649974823
+      }
+    ]
+  }
+}
+
